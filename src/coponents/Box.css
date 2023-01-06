@@ -1,0 +1,15 @@
+.menubar{
+    display: flex;
+    align-items: center;
+    height: 100vh;
+    justify-content: center;
+
+}
+.procedebtn{
+    margin-left: 20px;
+    margin-top: 20px;
+}
+.linkarea{
+    color: white;
+    text-decoration: none;
+}
